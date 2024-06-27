@@ -27,9 +27,11 @@ Secara keseluruhan, analisis sentimen dan klasifikasi ulasan film memiliki tujua
 
 
 **KETUA KELOMPOK**
+
 ADE TRI FAUZAN (221011401619)
 
 **ANGGORA**
+
 AKHILES SALVA
 ADE SEPTIANDI
 DAFFA
