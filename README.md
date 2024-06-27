@@ -24,3 +24,13 @@ Tujuan dari analisis sentimen dan klasifikasi ulasan film seperti yang telah kit
 *   **Membantu Pemilihan Film:** Ulasan film dan analisis sentimen dapat membantu penonton memutuskan film mana yang ingin mereka tonton. Dengan mengetahui sentimen umum terhadap suatu film, penonton dapat membuat pilihan yang lebih tepat sesuai dengan preferensi mereka.
 
 Secara keseluruhan, analisis sentimen dan klasifikasi ulasan film memiliki tujuan untuk mengekstrak informasi berharga dari teks ulasan yang tidak terstruktur. Informasi ini dapat digunakan untuk berbagai tujuan, mulai dari meningkatkan kualitas film hingga memberikan rekomendasi yang lebih baik kepada penonton.
+
+
+**KETUA KELOMPOK**
+ADE TRI FAUZAN (221011401619)
+
+**ANGGORA**
+AKHILES SALVA
+ADE SEPTIANDI
+DAFFA
+HILMI
