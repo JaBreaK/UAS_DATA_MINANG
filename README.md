@@ -31,7 +31,7 @@ Secara keseluruhan, analisis sentimen dan klasifikasi ulasan film memiliki tujua
 ADE TRI FAUZAN (221011401619)
 
 
-**ANGGORA** :
+**ANGGOTA** :
 
 AKHILES SALVA
 
